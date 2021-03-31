@@ -1,0 +1,6 @@
+D:\MuratYucedag\Asp.NetBootstrapileKatmanlıMimarideYazOkuluDersKayıtProjesi\EntityLayer\bin\Debug\EntityLayer.dll
+D:\MuratYucedag\Asp.NetBootstrapileKatmanlıMimarideYazOkuluDersKayıtProjesi\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\MuratYucedag\Asp.NetBootstrapileKatmanlıMimarideYazOkuluDersKayıtProjesi\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+D:\MuratYucedag\Asp.NetBootstrapileKatmanlıMimarideYazOkuluDersKayıtProjesi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\MuratYucedag\Asp.NetBootstrapileKatmanlıMimarideYazOkuluDersKayıtProjesi\EntityLayer\obj\Debug\EntityLayer.dll
+D:\MuratYucedag\Asp.NetBootstrapileKatmanlıMimarideYazOkuluDersKayıtProjesi\EntityLayer\obj\Debug\EntityLayer.pdb
